@@ -1,5 +1,5 @@
 package InterviewQ.Arrays;
-
+// find the missing number in array.
 public class MissingNumber {
     public static void main(String[] args) {
         int[] Array = {1 , 3 , 4 , 5 , 8 , 6}; // missing number is 2
